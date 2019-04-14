@@ -25,5 +25,7 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi");
 		System.out.println("elementsUi1");
+		System.out.println("elementsUi2");
+		System.out.println("elementsUi3");
 	}
 }
